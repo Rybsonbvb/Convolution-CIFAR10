@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Models (opcjonalnie jeśli model duży)
+# models/
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
+.env
